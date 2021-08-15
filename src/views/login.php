@@ -30,6 +30,7 @@
                         id="email" 
                         class="form-control" 
                         placeholder="Informe o e-mail" 
+                        value="<?= $email ?? null; ?>"
                         autofocus>
                 </div>
                 <div class="form-group">

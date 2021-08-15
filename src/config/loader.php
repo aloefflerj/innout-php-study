@@ -28,5 +28,7 @@ function loadTemplateView($viewName, $params = [])
         }
     }
 
+    require_once(TEMPLATES_PATH . "/header.php");
     require_once(VIEWS_PATH . "/{$viewName}.php");
+    require_once(TEMPLATES_PATH . "/footer.php");
 }

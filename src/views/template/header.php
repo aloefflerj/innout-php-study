@@ -12,7 +12,7 @@
     <title>In N' Out</title>
 </head>
 
-<body>
+<body class="">
 
     <header class="header">
         <div class="logo">

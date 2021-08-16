@@ -1,11 +1,11 @@
 <main class="content">
-    <div class="content-title mb-4">
-        <i class="icon icofont-check-alt mr-2"></i>
-        <div>
-            <h1>Resgistrar Ponto</h1>
-            <h2>Mantenha seu ponto consistente</h2>
-        </div>
-    </div>
+    <?php
+        renderTitle(
+            'Resgistrar Ponto',
+            'Mantenha seu ponto consistente',
+            'icofont-check-alt'
+        );
+    ?>
     <div class="card">
         <div class="card-header">
             <h3>10 de Janeiro de 2005</h3>

@@ -28,14 +28,14 @@
         <div class="spacer"></div>
         <div class="dropdown">
             <div class="dropdown-button">
-                <span>Usuário Mock</span>
-                <i class="icofont-simple-down ml-2"></i>
+                <span class="ml-3">Usuário Mock</span>
+                <i class="icofont-simple-down mx-2"></i>
             </div>
             <div class="dropdown-content">
                 <ul class="nav-list">
                     <li class="nav-item">
                         <a href="logout.php">
-                            <i class="icofont-logout mr-2"></i>
+                            <i class="icofont-logout mr-1"></i>
                             Sair
                         </a>
                     </li>
